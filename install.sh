@@ -13,5 +13,5 @@ move_with_backup() {
 
 move_with_backup ~/.zshrc
 
-stow zsh .oh-my-zsh
+stow zsh
 # also might want to 'stow' tmux gnupg alacritty zellij .oh-my-zsh karabiner ghostty claude

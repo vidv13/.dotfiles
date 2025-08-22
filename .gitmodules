@@ -1,0 +1,3 @@
+[submodule ".oh-my-zsh/.oh-my-zsh/custom/plugins/you-should-use"]
+	path = .oh-my-zsh/.oh-my-zsh/custom/plugins/you-should-use
+	url = https://github.com/MichaelAquilina/zsh-you-should-use.git
